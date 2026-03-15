@@ -10,7 +10,7 @@ const Features = () => {
   const features = [
     {
       icon: "🏆",
-      title: "Professional Excellence",
+      title: "Professional Excellency",
       description: "Our certified technicians use industry-leading techniques and premium products to deliver exceptional results every time.",
       benefits: ["Certified professionals", "Premium products", "Quality guarantee"]
     },
