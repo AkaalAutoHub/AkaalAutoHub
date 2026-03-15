@@ -16,7 +16,7 @@ const Features = () => {
     },
     {
       icon: "⚡",
-      title: "Quick Turnaround",
+      title: "Quick Turn around",
       description: "Efficient service without compromising quality. Most services completed within 2-4 hours with express options available.",
       benefits: ["Express service options", "Same-day completion", "Flexible scheduling"]
     },
