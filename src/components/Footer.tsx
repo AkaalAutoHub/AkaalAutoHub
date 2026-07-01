@@ -122,6 +122,20 @@ const Footer = () => {
             <p className="text-xs md:text-sm text-gray-400">
               Professional Car Care & Detailing Services in Saskatoon, SK
             </p>
+            <div className="mt-4 flex justify-center gap-6">
+              <a
+                href="/privacy.html"
+                className="text-xs md:text-sm text-gray-400 hover:text-[#5B051F] transition-colors"
+              >
+                Privacy Policy
+              </a>
+              <a
+                href="/terms.html"
+                className="text-xs md:text-sm text-gray-400 hover:text-[#5B051F] transition-colors"
+              >
+                Terms of Service
+              </a>
+            </div>
           </div>
         </motion.div>
       </div>
